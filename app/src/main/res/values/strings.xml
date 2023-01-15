@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyAppRecycler</string>
+    <string name="poster">Poster</string>
+    <string name="name">Name</string>
+    <string name="rating">Rating on kinopoisk</string>
+    <string name="oscarimage">OscarImage</string>
 </resources>
